@@ -4,7 +4,7 @@
 <ingresso:template>
     <jsp:body>
     	<div class=" col-md-6 col-md-offset-3">
-        	<h1>Adicionado com sucesso =)</h1>
+        	<h1>Adicionado com sucesso :)</h1>
       	</div>
     </jsp:body>
 </ingresso:template>
